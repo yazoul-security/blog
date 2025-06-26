@@ -1,0 +1,170 @@
+# depslib dependency file v1.0
+1750795878 source:c:\users\admin\desktop\crx_c2_relay\agent\agent\main.cpp
+	"civetweb.h"
+	<string>
+	<iostream>
+	<sstream>
+	<cstdio>
+	<memory>
+	<array>
+	<cstring>
+
+1748197189 c:\users\admin\desktop\crx_c2_relay\agent\agent\civetweb.h
+	<stddef.h>
+	<stdio.h>
+	<sal.h>
+
+1750796106 source:c:\users\admin\desktop\crx_c2_relay\agent\agent\civetweb.c
+	<rtems/version.h>
+	<ctype.h>
+	<fcntl.h>
+	<netdb.h>
+	<poll.h>
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/socket.h>
+	<time.h>
+	<zephyr/kernel.h>
+	"civetweb.h"
+	<stdlib.h>
+	<errno.h>
+	<fcntl.h>
+	<signal.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<mach/clock.h>
+	<mach/mach.h>
+	<mach/mach_time.h>
+	<sys/errno.h>
+	<sys/time.h>
+	"zconf.h"
+	"zlib.h"
+	<stdint.h>
+	<malloc.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<direct.h>
+	<io.h>
+	<process.h>
+	<inttypes.h>
+	<arpa/inet.h>
+	<ctype.h>
+	<dirent.h>
+	<grp.h>
+	<limits.h>
+	<netdb.h>
+	<netinet/in.h>
+	<netinet/tcp.h>
+	<poll.h>
+	<pthread.h>
+	<pwd.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<sys/utsname.h>
+	<sys/wait.h>
+	<time.h>
+	<unistd.h>
+	<sys/un.h>
+	<dlfcn.h>
+	"md5.inl"
+	"mod_mbedtls.inl"
+	"mod_gnutls.inl"
+	<openssl/bn.h>
+	<openssl/conf.h>
+	<openssl/crypto.h>
+	<openssl/dh.h>
+	<openssl/engine.h>
+	<openssl/err.h>
+	<openssl/opensslv.h>
+	<openssl/pem.h>
+	<openssl/ssl.h>
+	<openssl/tls1.h>
+	<openssl/x509.h>
+	"wolfssl_extras.inl"
+	"openssl_dl.inl"
+	<sys/prctl.h>
+	<sys/sendfile.h>
+	<sys/eventfd.h>
+	"external_mg_cry_internal_impl.inl"
+	"sort.inl"
+	"match.inl"
+	"response.inl"
+	"http2.inl"
+	"mod_zlib.inl"
+	"timer.inl"
+	"mod_lua.inl"
+	"mod_duktape.inl"
+	"sha1.inl"
+	"handle_form.inl"
+	"external_log_access.inl"
+
+1748197189 c:\users\admin\desktop\crx_c2_relay\agent\agent\md5.inl
+	<stdint.h>
+	<string.h>
+
+1748197189 c:\users\admin\desktop\crx_c2_relay\agent\agent\mod_mbedtls.inl
+	"mbedtls/ctr_drbg.h"
+	"mbedtls/debug.h"
+	"mbedtls/entropy.h"
+	"mbedtls/error.h"
+	"mbedtls/net_sockets.h"
+	"mbedtls/net.h"
+	"mbedtls/pk.h"
+	"mbedtls/platform.h"
+	"mbedtls/ssl.h"
+	"mbedtls/x509.h"
+	"mbedtls/x509_crt.h"
+	<string.h>
+
+1748197189 c:\users\admin\desktop\crx_c2_relay\agent\agent\mod_gnutls.inl
+	<gnutls/gnutls.h>
+	<gnutls/x509.h>
+
+1748197189 c:\users\admin\desktop\crx_c2_relay\agent\agent\wolfssl_extras.inl
+	<openssl/../internal.h>
+
+1748197189 c:\users\admin\desktop\crx_c2_relay\agent\agent\openssl_dl.inl
+
+1748197189 c:\users\admin\desktop\crx_c2_relay\agent\agent\sort.inl
+
+1748197189 c:\users\admin\desktop\crx_c2_relay\agent\agent\match.inl
+
+1748197189 c:\users\admin\desktop\crx_c2_relay\agent\agent\response.inl
+
+1748197189 c:\users\admin\desktop\crx_c2_relay\agent\agent\http2.inl
+
+1748197189 c:\users\admin\desktop\crx_c2_relay\agent\agent\mod_zlib.inl
+
+1748197189 c:\users\admin\desktop\crx_c2_relay\agent\agent\timer.inl
+
+1748197189 c:\users\admin\desktop\crx_c2_relay\agent\agent\mod_lua.inl
+	<dlfcn.h>
+	<sys/mman.h>
+	"civetweb_lua.h"
+	"civetweb_private_lua.h"
+	"mod_lua_shared.inl"
+
+1748197189 c:\users\admin\desktop\crx_c2_relay\agent\agent\civetweb_private_lua.h
+
+1748197189 c:\users\admin\desktop\crx_c2_relay\agent\agent\mod_lua_shared.inl
+
+1748197189 c:\users\admin\desktop\crx_c2_relay\agent\agent\mod_duktape.inl
+	"duktape.h"
+
+1748197189 c:\users\admin\desktop\crx_c2_relay\agent\agent\sha1.inl
+	<stdint.h>
+	<string.h>
+
+1748197189 c:\users\admin\desktop\crx_c2_relay\agent\agent\handle_form.inl
+
